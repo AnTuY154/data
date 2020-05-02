@@ -2,7 +2,7 @@
     "todolist": [
       { "id": 1, "text": "Play", "isDone":false
       },
-       { "id" :2  "text": "Hello you 123 ", "isDone": false }
+       { "id" :2 , "text": "Hello you 123 ", "isDone": false }
     ]
   
   }
