@@ -1,9 +1,8 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+    "todolist": [
+      { "id": 1, "text": "Play",isDone:false
+      },
+       { "id" :2  "text": "Hello you 123 ", "isDone": false }
+    ]
+  
   }
